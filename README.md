@@ -26,7 +26,7 @@ apt-get install docker.io
 # 安装docker-compose
 pip install docker-compose
 # 下载vulstudy项目 
-git clone https://github.com/c0ny1/vulstudy.git
+git clone https://github.com/root-tools/vulstudy.git
 ```
 
 ## 0x02 使用
